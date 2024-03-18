@@ -60,7 +60,7 @@ function App() {
 
       
 
-       <button className='col-md-2  col-5 bn01 mt-4 ms-4'><h6 className='mt-2'><b>MAKE AN ENQUIRY</b></h6></button>
+       <button className='col-md-2  col-5 bn01 mt-5 ms-4'><h6 className='mt-2'><b>MAKE AN ENQUIRY</b></h6></button>
        
 
        <div className='col-md-5 col-3'></div>

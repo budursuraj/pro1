@@ -58,6 +58,7 @@
 
 .bgimg1{
   background-image: url(img/h2.jpg);background-size: 100% 100%;background-position: center;height: 700px;width: 100%;
+  background-attachment: fixed;
 }
 .bgimg2{
   background-image: url(img/h12.jpg);background-size: 100% 100%;background-position: center;height: 200px;
@@ -241,8 +242,7 @@
   
   
   .bgimg1{
-    background-image: url(img/h2.jpg);background-size: cover ;background-position: center;height: 700px;width: 100%;
-    background-attachment: fixed;
+    background-image: url(img/h2.jpg);background-size: cover ;background-position: center;height: 700px;width: 100%;background-attachment: fixed;
   }
   .bgimg2{
     background-image: url(img/h12.jpg);background-size: 100% 100%;background-position: center;height: 200px;
